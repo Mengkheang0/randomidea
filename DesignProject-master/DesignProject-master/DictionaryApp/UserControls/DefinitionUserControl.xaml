@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="DictionaryApp.UserControls.DefinitionUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DictionaryApp.UserControls"
+             mc:Ignorable="d" 
+             FontSize="16"
+             Foreground="White"
+             Background="#141417"
+             d:DesignHeight="550" d:DesignWidth="450">
+    <Border CornerRadius="20" BorderThickness=".6" BorderBrush="White">
+        <Grid Width="430">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Word"
+                       Padding="10 6"
+                   Foreground="Red"
+                   FontSize="20"
+                   x:Name="word"
+                   FontStyle="Italic"
+                   FontFamily="Trebuchet MS">
+
+            </TextBlock>
+            <Image Source="/Images/delete_sign_16px.png"
+               Width="20"
+               HorizontalAlignment="Right"
+               Grid.Column="2"
+               x:Name="exitBtn"
+               MouseDown="exitBtn_MouseDown"
+               Margin="0 0 10 0">
+
+            </Image>
+
+            <Image Source="/Images/mygif.gif"
+                   Grid.Row="1" Stretch="Uniform"
+                   Grid.ColumnSpan="2"
+                   ></Image>
+
+            <StackPanel Grid.Row="2">
+                <TextBlock 
+                       FontSize="18"
+                       Foreground="Green"
+                       Text="Definition :"
+                       Grid.Row="2"
+                       Padding="10 10 0 0"
+                       FontStyle="Italic">
+
+                </TextBlock>
+                <TextBlock Grid.Row="2"
+                       FontSize="16"
+                        x:Name="def"
+                        Margin="50 0 0 0"
+                         Padding="3"
+                       Foreground="White"
+                       TextWrapping="WrapWithOverflow" FontFamily="Corbel"/>
+            </StackPanel>
+          
+        </Grid>
+    </Border>
+    
+</UserControl>

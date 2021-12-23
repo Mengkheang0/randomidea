@@ -1,0 +1,11 @@
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\bin\Debug\formuiidea.exe.config
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\bin\Debug\formuiidea.exe
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\bin\Debug\formuiidea.pdb
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.csproj.AssemblyReference.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.controls.listsearch.resources
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.Form1.resources
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.Properties.Resources.resources
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.csproj.GenerateResource.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.csproj.CoreCompileInputs.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.exe
+C:\Users\mengk\OneDrive\Desktop\TestProject\randomidea\formuiidea\formuiidea\obj\Debug\formuiidea.pdb

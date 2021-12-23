@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2b57d6e-6180-4db2-9876-b4f6cdfd08b3": {
+      "ProjectGuid": "b2b57d6e-6180-4db2-9876-b4f6cdfd08b3",
+      "DisplayName": "KlaKlouk",
+      "ColorIndex": 0
+    },
+    "948c8c9c-7471-42b0-9a8f-7c1b421bd8a5": {
+      "ProjectGuid": "948c8c9c-7471-42b0-9a8f-7c1b421bd8a5",
+      "DisplayName": "GuessingGame",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

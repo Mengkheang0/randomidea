@@ -1,0 +1,11 @@
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.Form1.resources
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\mengk\OneDrive\Desktop\TestProject\recent_pro\cSharp15WeekProjects\GuessingGame\obj\Debug\GuessingGame.pdb

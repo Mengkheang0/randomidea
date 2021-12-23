@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "370aef24-f981-4fd7-bf28-ef4f64375362": {
+      "ProjectGuid": "370aef24-f981-4fd7-bf28-ef4f64375362",
+      "DisplayName": "wnformUI",
+      "ColorIndex": 0
+    },
+    "f665df31-bb51-41af-a666-6b4cf001f7a4": {
+      "ProjectGuid": "f665df31-bb51-41af-a666-6b4cf001f7a4",
+      "DisplayName": "Cpanel",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

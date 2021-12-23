@@ -1,0 +1,6 @@
+C:\Users\2\Desktop\WPF\StandaloneDatabase\wnformUI\myDatbasePrj\bin\Debug\myDatbasePrj.dacpac
+C:\Users\2\Desktop\WPF\StandaloneDatabase\wnformUI\myDatbasePrj\bin\Debug\myDatbasePrj.dll
+C:\Users\2\Desktop\WPF\StandaloneDatabase\wnformUI\myDatbasePrj\bin\Debug\myDatbasePrj.pdb
+C:\Users\2\Desktop\WPF\StandaloneDatabase\wnformUI\myDatbasePrj\obj\Debug\myDatbasePrj.sqlproj.AssemblyReference.cache
+C:\Users\2\Desktop\WPF\StandaloneDatabase\wnformUI\myDatbasePrj\obj\Debug\myDatbasePrj.dll
+C:\Users\2\Desktop\WPF\StandaloneDatabase\wnformUI\myDatbasePrj\obj\Debug\myDatbasePrj.pdb
